@@ -1,0 +1,4 @@
+# Week 4
+When I started building computer rooms and data centres in the late 1980s, they were based on minicomputer/mainframe type technology. In many ways, they were far simpler and smaller than a modern data centre. However, many of the characteristics were those we can still find in a modern data centre. In this week's theory, I want to cover some of the basic technical areas with which we need familiarity.
+
+In our practical work, you need to cover some basic skills in VMWare Workstation. If you have covered this with me in a previous module, I will give you some alternate work during class.

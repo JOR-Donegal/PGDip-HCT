@@ -1,0 +1,4 @@
+# Week 5
+The most common Authentication, Authorization and Accounting (AAA) infrastructure we find in modern enterprise and data centres is Microsoft's Active Directory (AD). It's useful for centralizing information in an SME, but it's essential for any infrastructure that needs to scale. Once the site goes beyond a trivial size, its security information becomes unmanageable unless we centralize it. This week we are going to work on some of the theory and terminology behind having a local AD infrastructure.
+
+In our practical work, I want to look at an alternative to VMWare, Microsoft's Hyper-V. 
