@@ -3,7 +3,7 @@
 !!! abstract "This site contains basic notes in Hybrid Cloud Technology."
 
 
-Welcome to this module, Hybrid Cloud Technology (HCT). I plan and orchestrate my modules with 10 weeks of content, weeks 2-11.
+Welcome to this module, Hybrid Cloud Technology (HCT). I plan and orchestrate my modules with 10 weeks of content, weeks 2-11. This iteration of the module was arranged for e-delivery for remote students.
 
 I reserve week 1 for introductions and getting started.
 
