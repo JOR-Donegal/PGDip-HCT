@@ -3,7 +3,7 @@
 
 <figure>
 <img src = "https://jor-donegal.github.io/PGDip-HCT/images/jor-edu.jpg" width="200" height="200">
-<figcaption>Mount St Helens and Coldwater lake.</figcaption>
+<figcaption></figcaption>
 </figure>
 
 I have been writing course content since the last millenium (sad but true!). Changing platforms has been the bane of my life. Moving my documents to an open format and to a technology that I can sync and save seems to be a good idea. And using a static site generator leaves me independent of any changes that come along to services in the future.
