@@ -2,7 +2,7 @@
 
 
 <figure>
-<img src = "https://jor-donegal.github.io/PGDIP-HCT/images/jor-edu.jpg" width="200" height="200">
+<img src = "https://jor-donegal.github.io/PGDip-HCT/images/jor-edu.jpg" width="200" height="200">
 <figcaption>Yup, that is Mount St Helens and Coldwater lake.</figcaption>
 </figure>
 
