@@ -8,6 +8,9 @@ I also want to talk you through considerations when building and operating syste
 In an Enterprise, what we will do here will only be the beginning. Security will be based on corporate policy and deployed centrally from a domain controller or similar. Discuss this with your lecturer. In any real enterprise or data centre, you as the technical person DO NOT MAKE THE DECISIONS ABOUT THESE THINGS!!!!
 
 ## Actions
+
 1. (Dig into the hardware)[https://johnoraw.gitbook.io/verifying-your-system-1/] of your personal system in some detail. 
+
 2. Do some more reading on (processors)[https://johnoraw.gitbook.io/server-hardware-1/], this time on topics relating to server specification.
+
 3. Read through and understand my notes on (OS Configuration)[https://johnoraw.gitbook.io/os-configuration/].
