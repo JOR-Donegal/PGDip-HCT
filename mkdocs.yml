@@ -6,7 +6,7 @@ theme:
   font: 
     text: "Roboto"
     code: "Fira Code"
-  logo: images/jor-edu.jpg
+  logo: images/DeathStar.jpg
   features:
     - navigation.footer
   
