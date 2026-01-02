@@ -7,14 +7,20 @@ Welcome to this module, Hybrid Cloud Technology (HCT). I plan and orchestrate my
 
 I reserve week 1 for introductions and getting started.
 
+The major areas covered in weeks 2-11 are
+- Hardware Platforms
+- Desktop Virtualization
+- Server Virtualization
+- Storage and Networking  
+
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
-This module is intended for students who already have some background in scripting and automation, networking and operating systems. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. The content and structure of this module was created c. 2015 and it is updated annually. 
+This module is intended for students who already have some background in scripting and automation, networking and operating systems. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. The content and structure of this module was created c. 2015, last revised in 2022 and it is updated annually. 
 
 If you are doing this module remotely, you need a good modern computer, review my notes in Week 1 to understand what you need.
 
 ## Copyright
-The content of these notes are (c) John ORaw 2025.
+The content of these notes are (c) John ORaw 2026.
 
 I have tried to acknowledge and cite sources, if you think I have missed crediting someone else's work, please contact me by university e-mail and I will remedy.
 
