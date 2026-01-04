@@ -3,7 +3,7 @@ site_url: https://https://jor-donegal.github.io/PGDip-HCT/
 theme:
   name: readthedocs
   logo: images/DeathStar.jpg
-  palette: indigo
+  
 
 copyright: Copyright © 2026, John O'Raw
 
