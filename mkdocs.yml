@@ -1,7 +1,12 @@
 site_name: Hybrid Cloud Technology for E-Delivery
 site_url: https://example.com
 theme:
+  logo: images/DeathStar.jpg
   name: readthedocs
+  palette:
+    scheme: default
+    primary: yellow
+    accent: deep purple
 
 markdown_extensions:
   - pymdownx.highlight:
