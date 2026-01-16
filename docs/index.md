@@ -12,7 +12,7 @@ The major areas covered in weeks 2-11 are
 - Hardware Platforms
 - Desktop Virtualization
 - Server Virtualization
-- Storage and Networking  
+- Storage and Networking Virtualization 
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 

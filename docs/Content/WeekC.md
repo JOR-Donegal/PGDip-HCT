@@ -8,6 +8,6 @@ We need to examine the desktop hypervisor which ships with Windows, Hyper-V. Do 
 ## Study
 1. Read through my notes on [data centre design considerations and layout](https://johnoraw.gitbook.io/data-centres-1/)
 
-##actical Work
+## Practical Work
 1. Go through the exercises in my [notes on Hyper V](https://johnoraw.gitbook.io/desktop-virtualization-in-hyper-v-1/).
 
