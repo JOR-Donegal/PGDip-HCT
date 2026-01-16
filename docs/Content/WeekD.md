@@ -3,6 +3,8 @@ The most common Authentication, Authorization and Accounting (AAA) infrastructur
 
 In practical exercises this week, build the core services for a basic SME site using Active Directory. This should have two domain controllers, each having redundant AD, DNS, DHCP. One of the controllers should be set to synchronize time to a source of NTP. Plan the site as if it has no Internet connectivity.
 
-## Actions
+## Study
 1. Read through my theory material on [Active Directory](https://johnoraw.gitbook.io/active-directory-1/)
+
+## Practical Work
 2. Build Authentication, Authorization and Accounting (AAA) infrastructure for an SME site, using scripts and configuration files where posible.

@@ -5,7 +5,9 @@ I assumme you are already competent with VMWare Workstation, if not, bring this 
 
 We need to examine the desktop hypervisor which ships with Windows, Hyper-V. Do NOT install this on your host computer, we will use it in a VM only as nested virtualization.
 
-## Actions
+## Study
 1. Read through my notes on [data centre design considerations and layout](https://johnoraw.gitbook.io/data-centres-1/)
-2. Go through the exercises in my [notes on Hyper V](https://johnoraw.gitbook.io/desktop-virtualization-in-hyper-v-1/).
+
+##actical Work
+1. Go through the exercises in my [notes on Hyper V](https://johnoraw.gitbook.io/desktop-virtualization-in-hyper-v-1/).
 

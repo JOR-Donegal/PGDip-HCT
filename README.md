@@ -7,7 +7,7 @@ Landing page for hybrid cloud material, to be taught as an e-delivery module. Th
 3. Introduction OK
 ### Week 1. 
 Fundamentals of cloud computing is 2024 version from GITBOOK
-CPU hardware needs work
+CPU hardware needs work, GPU
 ### Week 2
 Dig into the hardware is 2024 version from GITBOOK
 Processors is 2024 version from GITBOOK
